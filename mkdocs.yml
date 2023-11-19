@@ -1,0 +1,7 @@
+site_name: My knowledge Repo
+theme:
+  name: 'material'
+
+nav: 
+  - Home: 
+    - 主页: index.md
