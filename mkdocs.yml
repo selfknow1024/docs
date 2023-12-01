@@ -5,3 +5,4 @@ theme:
 nav: 
   - Home: 
     - 主页: index.md
+    - 12月编程训练: 12月编程训练.md
