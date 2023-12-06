@@ -12,6 +12,8 @@ markdown_extensions:
   - md_in_html
   - sane_lists
   - admonition
+  - neoteroi.cards
+  - neoteroi.timeline
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
@@ -40,6 +42,7 @@ extra_javascript:
 
 extra_css:
     - css/custom.css 
+    - css/neoteroi-mkdocs.css
 nav: 
   - Home: 
     - 主页: index.md
